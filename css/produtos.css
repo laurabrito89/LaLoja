@@ -1,0 +1,46 @@
+body {
+    background-color: cadetblue;
+}
+
+.img1{
+    border-radius: 10px;
+    margin: 0;
+    display: block;
+}
+
+.caixas{
+    justify-content: space-evenly;
+    display: flex;
+    margin-bottom: 230px;
+}
+
+.caixapadrao{
+    display: inline-block;
+    padding-left: 25px;
+    padding-top: 40px;
+    width: 250px;
+    height: 400px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s;
+    text-align: left;
+}
+
+.caixapadrao:hover{
+    transform: scale(1.05);
+}
+
+.textocaixa{
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.cor1{
+    background-color: darkslategray;
+}
+
+.cor2{
+    background-color: plum;
+}
+

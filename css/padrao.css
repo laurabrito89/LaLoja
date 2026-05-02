@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*Footer final da página*/
+footer {
+    background-color: #333;
+    color: gray;
+    
+}
+
+.interface{
+    width: 1308px;
+    height: 225px;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-size: 18px;
+}
+
+.redes{
+    justify-content: space-evenly;
+    display: flex;
+    padding-top: 30px; 
+    padding-bottom: 25px;
+    padding-left: 170px;
+    padding-right: 200px;
+}
+
+.textofooter{
+    justify-content: space-evenly;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    
+}

@@ -1,0 +1,46 @@
+body {
+    background-color: bisque;
+}
+
+.menu{
+    justify-content: space-evenly;
+    display: flex;
+    background-color: gray;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.caixalogo{
+    background-color: cadetblue;
+    width: 1000px;
+    height: 500px;
+    border-radius: 10px;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.textocentro{
+    font-size: 100px;
+    text-align: center;
+    color: whitesmoke;
+}
+.subtexto{
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+}
+.img1{
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display: block;
+}
+
+.textinho1{
+    padding: 20px;
+    font-size: 25px;
+}
